@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1176/nagoya-bus)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1176/nagoya-bus)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1176/nagoya-bus)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1176/nagoya-bus)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1176/nagoya-bus)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1176/nagoya-bus)
+
 # nagoya-bus-mcp
 [![PyPI - Version](https://img.shields.io/pypi/v/nagoya-bus-mcp)](https://pypi.org/project/nagoya-bus-mcp/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/nagoya-bus-mcp)](https://pypi.org/project/nagoya-bus-mcp/)
